@@ -1,3 +1,5 @@
+//import QUnit from "qunit.js";
+
 QUnit.module('module 1');
 
 QUnit.test( "hello test", function( assert) {
